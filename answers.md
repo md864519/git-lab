@@ -98,3 +98,23 @@ Author: Michael DeBrosse <md864519@ohio.edu>
 Date:   Fri May 19 15:41:22 2023 -0400
 
 * Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+* Answer 10
+Michael DeBrosse - CS 2400, Section 100
+
+* Answer 11
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/md864519/git-lab.git'
+
+* Answer 12
+The online copy and local copy match
+
+* Answer 13 
+.		..		.git		.gitignore	README.md
+
+
+
